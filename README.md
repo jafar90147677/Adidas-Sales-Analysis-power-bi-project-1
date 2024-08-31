@@ -31,8 +31,3 @@ Common visualizations could include:
 - Tracking financial metrics to ensure the company is on track to meet its goals.
 
 # For instance, the project might reveal that running shoes are particularly popular in a certain region, leading to strategic decisions to focus more marketing efforts there.
-# Dashboard Creation:
-
-- All these visualizations are likely compiled into an interactive dashboard within Power BI.
-
-- This dashboard allows users to explore the data in an intuitive way, filtering by time periods, product categories, or regions to gain specific insights.
