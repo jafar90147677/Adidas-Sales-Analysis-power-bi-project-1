@@ -16,8 +16,11 @@ The core of the Power BI project is to analyze the data and create visualization
 Common visualizations could include:
 
 `Bar Charts:` Showing the sales performance of different Adidas products over time.
+
 `Line Charts:` Tracking trends in revenue or customer growth.
+
 `Pie Charts:` Breaking down market share by product type or region.
+
 `Maps:` Highlighting geographical areas where Adidas products are most popular.
 
 # Business Insights:
